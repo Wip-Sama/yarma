@@ -1,0 +1,12 @@
+{
+	"name": "yarma",
+	"version": "0.0.0",
+	"title": "YARMA - Yet Another Resource Monitor Attempt",
+	"author": "WipMod",
+	"description": "Resource monitor stuff with a fancy GUI",
+	"factorio_version": "1.1",
+	"contact": "https://t.me/smastermega",
+	"dependencies": [
+		"base >= 1.1.0"
+	]
+}	
